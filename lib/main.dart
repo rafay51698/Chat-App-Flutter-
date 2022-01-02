@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:messenger_app/screens/welcome.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:messenger_app/screens/welcome_screen.dart';
 
 void main() async {
   runApp(const MyApp());
